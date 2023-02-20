@@ -1,7 +1,7 @@
 {
-	"token": "your-bot-token-goes-here",
-	"clientId": "client-id-goes-here",
-	"guildId": "guild-id-goes-here",
+  "token": "your-bot-token-goes-here",
+  "clientId": "client-id-goes-here",
+  "guildId": "guild-id-goes-here",
   "roblox-cookie": "alt-account-cookie-goes-here",
   "api-key": "outsource-scanner-api-key-goes-here"
 }
